@@ -1,6 +1,6 @@
 /**
  * @file activity2.c
- * @author susmithapvs
+ * @author susmithapvs (pvssushmitha@gmail.com)
  * @brief
  * @version 0.1
  * @date 2021-09-16
@@ -25,6 +25,7 @@ uint16_t ReadADC(uint8_t ch)
     ADCSRA|=(1<<ADIF);
     return(ADC);
 }
+
 void InitADC()
 {
     ADMUX=(1<<REFS0);
