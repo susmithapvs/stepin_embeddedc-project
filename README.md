@@ -6,6 +6,6 @@ Codacy Badge
 
 Code Inspector
 
-[![Code Inspector](https://www.code-inspector.com/project/28814/score/svg)
+![Code Inspector](https://www.code-inspector.com/project/28814/score/svg)
 
-[![Code Inspector](https://www.code-inspector.com/project/28814/status/svg)
+![Code Inspector](https://www.code-inspector.com/project/28814/status/svg)
