@@ -2,18 +2,13 @@
 #define __ACTIVITY_1_H__
 /**
  * @file activity1.h
- * @author KaaviyaP (kaaviya2881999@gmail.com)
+ * @author susmithapvs
  * @brief Header file for activity1
  * @version 0.1
- * @date 2021-04-27
+ * @date 2021-09-16
  *
  * @copyright Copyright (c) 2021
  *
- */
-
-
-/**
- * Macro Definitions
  */
 
 #define F_CPU 16000000UL 	/**< Clock Frequency of MCU is 16 MHz */
@@ -25,18 +20,15 @@
 /**
  * Include files
  */
+
 #include <util/delay.h>
 #include <avr/io.h>
-
 
 /**
  * Function Definitions
  */
 
-/**
- * @brief Initialize all the Peripherals and pin configurations
- *
- */
+
 void peripheral_init(void);
 
 /**
@@ -52,7 +44,7 @@ void TurnLED_ON();
 void TurnLED_OFF();
 
 /**
- * @brief Activity 1 to Turn ON LED if switches for Button sensor and Heator sensor are pressed
+ * @brief Activity 1 to Turn ON LED 
  *
  */
 int activity1_LED(void);
