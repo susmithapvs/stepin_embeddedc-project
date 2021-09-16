@@ -6,7 +6,7 @@ The heat control system is basically used to control the temperature inside a ca
 **FEATURES:**
 --------------
 
-Driver has the acess to modify te temperature.
+Driver has the acess to modify the temperature.
 
 Low cost.
 
@@ -15,42 +15,42 @@ With the help of driver, heater generate heat accordingly.
 **SWOT Analysis:**
 ------------------
 
-Strengths:
+**Strengths:**
 
 System can control Temperature
 
-Weakness:
+**Weakness:**
 
 The system can be used where the temperature is very low.
 
-Oppurtunities:
+**Oppurtunities:**
 
 It can be replaced heater with air conditioner.
 
-Threats:
+**Threats:**
 
 Not suitable for high temperature
 
 **4W's and 1H:**
 ----------------
 
-WHAT
+**WHAT**
 
 Seat Heating driver application
 
-WHERE
+**WHERE**
 
 Used in industries.
 
-WHEN
+**WHEN**
 
 Used in low temperature.
 
-WHY
+**WHY**
 
 For health conditions.
 
-HOW
+**HOW**
 
 By changing Temperature.
 
